@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the citizens of London, in answer to the demands and proposals of the committee of the House of Commons, concerning a personall treaty with the Kings Majesty. And their resolution touching the disposing of His Ma[j]estie[s] royall person, in case the King and Parliament doth not agree. Likewise, the acts and resolution of the Honourable Court at Guild-Hall, concerning the cities engagement to preserve and defend the Kings Majesties royall person. Read in the Honorable Court at Guild-Hall, and appointed to be forthwith pri[n]ted and published. Michel.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82128</idno>
+            <idno type="STC">Wing D647</idno>
+            <idno type="STC">Thomason E452_39</idno>
+            <idno type="STC">ESTC R204892</idno>
+            <idno type="EEBO-CITATION">99864344</idno>
+            <idno type="PROQUEST">99864344</idno>
+            <idno type="VID">161976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161976)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the citizens of London, in answer to the demands and proposals of the committee of the House of Commons, concerning a personall treaty with the Kings Majesty. And their resolution touching the disposing of His Ma[j]estie[s] royall person, in case the King and Parliament doth not agree. Likewise, the acts and resolution of the Honourable Court at Guild-Hall, concerning the cities engagement to preserve and defend the Kings Majesties royall person. Read in the Honorable Court at Guild-Hall, and appointed to be forthwith pri[n]ted and published. Michel.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161976:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of the Citizens of LONDON, In Anſw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r To the <hi>Demands</hi> and <hi>Propoſals</hi> of the Committee of the Houſe of COMMONS, con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erning a <hi>Perſonall Treaty</hi> with the KINGS MAJ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>STY.</p>
+            <p>And their Reſolution touching the diſpo<g ref="char:EOLhyphen"/>ſing of H<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> MA<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ESTIE<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Royall Perſon, in caſe the <hi>King</hi> and <hi>Parliament</hi> doth not agree.</p>
+            <p>Likewiſe, the Acts and Reſolutions of the Honourab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Cou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Guil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-Hall, c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncerning the Cities Engagement to preſerve and defend the Kings Majeſties Royall Perſon.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>REad in the Honorable Court at Guild-Hall, and appointed to be forthwith pri<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ted and publ<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſhed.</p>
+                        <closer>
+                           <signed>MICHEL.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>blazon of the City of London, consisting of a shield bearing the cross of St. George (patron saint of England) with a sword (emblem of the martyrdom of St. Paul, patron saint of London) in the first quarter of the shield</figDesc>
+            </figure>
+            <p>
+               <add>July 15</add> 
+               <hi>London,</hi> Printed for G. HORTON, MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration_and_propositions_of_the_Commons">
+            <pb facs="tcp:161976:2"/>
+            <pb n="1" facs="tcp:161976:2"/>
+            <head>The Declaration &amp; Propoſitions in the name of the Commons of <hi>England,</hi> to the Com<g ref="char:EOLhyphen"/>mittee of the Common-Councell of the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> concerning an Agreement between the King, Parliament, City, and Kingdome.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Commons of <hi>England</hi> aſſembled at Weſt<g ref="char:EOLhyphen"/>minſter, having received ſeveral Petitions from the City of <hi>London,</hi> and the Counties adjacent, for a ſafe and wel-grounded peace between the King and His People; for the effecting whereof a Committee was appointed to treat with a Committee of the Common-Councell of the City of <hi>London,</hi> for bringing of the Kings Majeſty to a Perſonall Treaty, to the end, that all differences may be compoſed, and this diſtracted and lan<g ref="char:EOLhyphen"/>guiſhing kingdom, ſetled in a peaceable and flouriſhing con<g ref="char:EOLhyphen"/>dition; the Debates, Reſults, and proceedings at Guild-hall, between the Members of the Houſe of Commons, and the Common-Councell of the City of <hi>London,</hi> are here inſerted verbatim, <hi>Viz.</hi>
+            </p>
+            <p>The ſaid honourable Committee did deſire that the Mili<g ref="char:EOLhyphen"/>tary Forces, and the Court of Common-Councel, would ſa<g ref="char:EOLhyphen"/>tisfie them what they intend and meane by thoſe words in the Petition of the Military-Officers, wherein the petition
+<pb n="2" facs="tcp:161976:3"/>of the Common councel to the Parliament do concur, <hi>viz. That the King and Parl. may meet and treat with honour, freedom honour, and ſafety, according to the ancient fundamentall conſti<g ref="char:EOLhyphen"/>tutions of this Kingdome.</hi>
+            </p>
+            <p>To this the Committee of the Common councel made an<g ref="char:EOLhyphen"/>ſwer as followeth, <hi>viz.</hi> By theſe words, we m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an, That the King and Parliament may meet and treat free from force or violence, which we conceive to be according to the ancient Fundamental conſtitutions of this kingdom.</p>
+            <p>The ſaid honorable Committee did further deſire, that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Committee of Common councel would ſatisfie them, what is meant by theſe words, viz. <hi>That they wil defend His Maj. Royal Perſon and the Parl. during the Treaty, according to the Covenant.</hi>
+            </p>
+            <p>The Committee of Common councell did give Anſwer thereunto as followeth, viz. By thoſe words To defend the King and Parl. according to the Covenant) we meane, That during the Treaty, we will defend the King and Parliament (as much as in us lieth free from all force and violence.</p>
+            <p>The ſaid honor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Committee did further deſire, that the Committee of Common counce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſhould ſatisfie them what they intend and m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an in the petition of the Military Offi<g ref="char:EOLhyphen"/>cers, by the word <hi>[Freedom]</hi> in the laſt clauſe, and likewiſe what they mean by theſe words <hi>otherwiſe interrupt.</hi>)</p>
+            <p>To this the Committee of the Com<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on councell gave the ſeverall anſwers following, <hi>viz.</hi> By the word <hi>(Freedome)</hi> we underſtand free from force and violence, and by the words <hi>(otherwiſe interrupt)</hi> we mean all hoſtile forces what; ſoever; the which anſwers were approved of by this Court.</p>
+            <p>The ſaid honorable Committee did further propound, that in caſe the <hi>Parliam.</hi> ſhall make choice of this City to be the place of the Treaty, and that the Common councell on the behalf of the City, do ingage themſelves to defend both <hi>King</hi>
+               <pb n="3" facs="tcp:161976:3"/>and <hi>Parl.</hi> from violence during the Treaty, <hi>Whether the City will maintain their Guards at their own charge.</hi>
+            </p>
+            <p>To which the Com<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittee of Common-councel did an<g ref="char:EOLhyphen"/>ſwer, that the ſame being a matter of charge, muſt bee reſol<g ref="char:EOLhyphen"/>ved by Common councel, and that they would acquaint the Common-councell therewith; concerning this queſtion, this Court did take the ſame into their ſerious conſiderati<g ref="char:EOLhyphen"/>on, and after ſome debate had thereupon, this Court decla<g ref="char:EOLhyphen"/>red, that if the ſaid intended Treaty be in <hi>London,</hi> that then the City will for the preſent defray the charge for the main<g ref="char:EOLhyphen"/>taining of the Military Guards for the purpoſe aforeſaid, du<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the Treaty, and afterwards refer themſelves to the <hi>King</hi> and <hi>Parliament</hi> for ſatisfaction thereof.</p>
+            <p>The ſaid H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nour<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Committee did further propoſe, that in caſe the King ſhall not conſent and agree to ſuch things as ſhall be propounded and inſiſted on by both Houſes of Par<g ref="char:EOLhyphen"/>liament, in this Treaty for a ſa e and wel grounded Peace, <hi>[whether they will undert<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke and engage that the Perſon of the King ſhall be diſpoſed of, as both Houſes of Parliament ſhall think fit.]</hi>
+            </p>
+            <p>To which the ſaid Committee of Common Councel did anſwer as followeth, <hi>viz.</hi> U<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der the favour of this Honoura<g ref="char:EOLhyphen"/>ble Committee, we c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnot underſtand by the Order of the Honorable H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe of Commons, which was delive<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed unto us for this Treaty that there is any thing the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ein men<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ioned, tending to that which is by this Honorabl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Committee pro<g ref="char:EOLhyphen"/>pounded, concerning the delivery up of the King in caſe the King and Parliament did not agree.</p>
+            <p>And the ſaid Honorable Committee did further declare, <hi>That they were not ſatisfied with this anſwer concerning the diſ<g ref="char:EOLhyphen"/>poſing of the Kings perſon in caſe the King and Parliament did not agree; and did expect a further anſwer.</hi>
+            </p>
+            <p>To which the Committee of Common councel did an<g ref="char:EOLhyphen"/>ſwer
+<pb n="4" facs="tcp:161976:4"/>and ſay, That they would acquaint the Common coun<g ref="char:EOLhyphen"/>cell therewith; concerning which prop<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, this Court did take the ſame into their ſerious conſideration, and upon a full and large debate thereupon, did declare, that in caſe the ſaid intended Treaty ſhall be in <hi>Lo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>don,</hi> and that His Majeſty and His Parliament ſhould not agree (which God forbid) then they conceive themſelves bound to ſubmit to the wiſ<g ref="char:EOLhyphen"/>dom of both Houſes of Parliament.</p>
+            <p>The ſaid honorable Committee did likewiſe deſire, <hi>That the Committee of Common Councell, and the Military Officers, ſhould ſatisfie them in what manner, and by what meanes they wil make good their engagement, by defending the King and Parlia<g ref="char:EOLhyphen"/>ment againſt all violence.</hi>
+            </p>
+            <p>To which the Committee of Common-councel made an<g ref="char:EOLhyphen"/>ſwer and propoundeth as followeth, <hi>viz.</hi> We do declare, &amp; we are ready according to our Engagement, (as much as in us lyeth) by the Trained Bands of the City, and the late Lines of Communication to guard and defend the King and Par<g ref="char:EOLhyphen"/>liament from all force and violence. And to the end that we may be inabled to perform the ſame, wee do humbly offer, That the Ordinance for the uniting of the Military Forces within the late Lines of Communication, and the Pariſhes of the Weekly Bills of Mortality, to the Forces of the City, to be one intire Militia, may be ſpeedily paſſed.</p>
+            <p>That the Militia may be enabled to raiſe ſuch other for<g ref="char:EOLhyphen"/>ces as they ſhall find needfull, to carry them through this ſervice; And that no other forces may be raiſed, or made uſe of within this City and late Lines of Communication, but by Authority of the ſaid Militia by conſent of Common-Councell.</p>
+            <p>To conſider that our dangers are either from without or within, and therefore propounded, <hi>viz.</hi> For thoſe without,
+<pb n="5" facs="tcp:161976:4"/>that for our better ſecurity in guarding the King and Parlia<g ref="char:EOLhyphen"/>ment, we deſire that ſome courſe may be taken as ſhall be thought fit by Wiſdom of Parliament, that no Forces in Armes may come within 30. miles of <hi>London</hi> during the time of the Treaty; And for thoſe within, that what p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſon or perſons ſoever ſhall make any Tumult, Inſurrect on or diſturbance, during the time of this Treaty, after Proclama<g ref="char:EOLhyphen"/>tion made, it ſhall be death.</p>
+            <p>That if the wiſdom of Parliament ſhall think fit, that none that have born Armes againſt the Parliament, or have or ſhall contribute thereunto, ſhall be permitted during the ſaid Treaty to come within 30. miles of <hi>London,</hi> without leave of the Parliament had or to be had.</p>
+            <p>Concerning this deſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e or propoſition of the ſaid Honou<g ref="char:EOLhyphen"/>rable Committee, this Court doth approve of the Anſwers thereunto and Propoſitions made touching the ſame, And this Court doth Order that the ſaid Committee of Com<g ref="char:EOLhyphen"/>mon councell ſhall communicate unto the ſaid Honorable Committee, the aforeſaid Anſwers and Propoſitions of this Court to be by them preſented unto both Houſes of Parlia<g ref="char:EOLhyphen"/>ment. And alſo to d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clare unto them, that it it is the humble deſire of this Court, that the ſaid Treaty may be with all ex<g ref="char:EOLhyphen"/>pedition, for the preventing of further inconveniencies. And likewiſe that this Court will do their endeavours (if the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id Treaty be in <hi>London</hi>) for the finding out of ſome conveni<g ref="char:EOLhyphen"/>ent place within the City for that purpoſe, and ſuch other ac<g ref="char:EOLhyphen"/>comodations as ſhall be fitting.</p>
+            <p>It is ordered by this Common councel, That the Com<g ref="char:EOLhyphen"/>mon-councel-men and Commanders, or ſuch as they ſhall appoint, ſhall within their ſeveral Precincts, either by calling all the Inhabitants before them, or by going from hou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to houſe receive their concurrence to the ſaid Engagement by ſubſcription of their Names.</p>
+            <closer>
+               <signed>MICHEL.</signed>
+            </closer>
+         </div>
+         <div type="decree_of_the_Common_Council">
+            <pb n="6" facs="tcp:161976:5"/>
+            <opener>
+               <dateline>Commune Concilium tent. in camera Guildhald. civit. London, <date>duodecimo die Julii, 1648. An<g ref="char:EOLhyphen"/>no<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Regni Domini noſtri Caroli nunc Regis Angliae, &amp;c. Viceſimo quarto.</date>
+               </dateline>
+            </opener>
+            <p>IT is Ordered by this Court, That the Com<g ref="char:EOLhyphen"/>mittee appointed by the Common Councell the <hi>6</hi> day of this inſtant <hi>Ju<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> to confer with the Commit<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e aſſigned by Order of the Houſe of Commons, concerning the ingagement of this City for the ſafe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of King and Parliament, during the intended Tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aty, ſhall forthwith take care to diſperſe unto the Aldermen, De<g ref="char:EOLhyphen"/>puties, Common-councel men, and Commanders in the reſpective Wards within this City, the Acts and Reſolutions of this Court touching the ſame Engagement paſſed the <hi>11.</hi> day of this Moneth, &amp;c.</p>
+            <closer>
+               <signed>Michel.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
